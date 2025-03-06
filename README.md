@@ -95,8 +95,8 @@ This DAG exemplifies how to build a robust, secure, and modular data pipeline us
 Happy pipelining! :)
 
 
-##Author
+## Author
 
-Shashidhar Babu P V D
-shashidharbabu.pasupuletivenkatadurga@sjsu.edu
----
+- Shashidhar Babu P V D
+- shashidharbabu.pasupuletivenkatadurga@sjsu.edu
+
